@@ -1,9 +1,9 @@
-**Name**: Shree priyanka V L
-**Company**: CODTECH IT SOLUTIONS 
-**ID**: CT08DS6936
-**Domain**: Web development 
-**Duration**: AUG to SEP 2024
-**Mentor**: Neela Santhosh Kumar
+**Name:**Shree priyanka V L
+**Company:** CODTECH IT SOLUTIONS 
+**ID:** CT08DS6936
+**Domain:** Web development 
+**Duration:** AUG to SEP 2024
+**Mentor:** Neela Santhosh Kumar
 
 ## Weather App Overview
 This Weather App is designed to provide users with real-time weather updates for any location they enter. With its intuitive interface and real-time data fetching capabilities, the app ensures that users have access to essential weather details to help them plan their day effectively.
