@@ -26,7 +26,7 @@ The app’s functionality is powered by JavaScript, which handles data fetching 
 ## Footer:
 Includes copyright information and credits, ensuring proper attribution.
 
-**Output**
+## Output:
 ![1 pic](https://github.com/user-attachments/assets/62f9f0b4-391a-4a90-a942-0602ce213128)
 ![2 pic](https://github.com/user-attachments/assets/526b0a05-33ea-4f46-b391-a228944715ac)
 
