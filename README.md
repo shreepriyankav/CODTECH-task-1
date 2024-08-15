@@ -1,9 +1,9 @@
 **Nmae:** Shree priyanka V L <br>
-**Company:** CODTECH IT SOLUTIONS 
-**ID:** CT08DS6936
-**Domain:** Web development 
-**Duration:** AUG to SEP 2024
-**Mentor:** Neela Santhosh Kumar
+**Company:** CODTECH IT SOLUTIONS   <br>
+**ID:** CT08DS6936  <br>
+**Domain:** Web development   <br>
+**Duration:** AUG to SEP 2024   <br>
+**Mentor:** Neela Santhosh Kumar  <br>
 
 ## Weather App Overview
 This Weather App is designed to provide users with real-time weather updates for any location they enter. With its intuitive interface and real-time data fetching capabilities, the app ensures that users have access to essential weather details to help them plan their day effectively.
@@ -13,11 +13,11 @@ This Weather App is designed to provide users with real-time weather updates for
 Error Handling: If the entered location is not recognized, the app displays a "Not Found" message along with an image, ensuring users are aware of any issues.
 **Weather Display**: The app presents a comprehensive overview of the current weather, including:
 An image representing the weather status (e.g., sunny, rainy).
-**Temperature
-Weather condition
-Humidity
-Visibility
-Wind speed**
+**Temperature  <br>
+Weather condition  <br>
+Humidity  <br>
+Visibility  <br> 
+Wind speed   <br>**   
 ## Styling and Visual Elements:
 **FontAwesome Icons**: Used to enhance the user interface with icons like the search magnifying glass and location pin.
 **Images**: Visually represent weather conditions, making the data more relatable and easy to understand.
