@@ -27,6 +27,9 @@ The app’s functionality is powered by JavaScript, which handles data fetching 
 Includes copyright information and credits, ensuring proper attribution.
 
 
+![1 pic](https://github.com/user-attachments/assets/62f9f0b4-391a-4a90-a942-0602ce213128)
+
+
 
 
 
